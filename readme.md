@@ -35,10 +35,6 @@
 6.  **Configuration**
 7.  **Setup and Execution**
 8.  **Limitations and Future Enhancements**
-9.  **Video Demonstration Outline**
-    9.1. System Functionality Walkthrough
-    9.2. Code Review Highlights
-    9.3. Implementation Explanation
 
 ---
 
@@ -52,6 +48,8 @@ This document details the design, implementation, and functionality of the High-
 *   Presenting these estimations and input parameters through a user-friendly Tkinter-based interface.
 
 The system is designed with a focus on performance, modularity, and extensibility, implemented in Python. It adheres to the technical requirements of processing data faster than the stream is received, robust error handling, and clean code architecture.
+
+![Screenshot (76)](https://github.com/user-attachments/assets/04357f2e-5e45-4f5f-90bb-a9fb9c274e49)
 
 ### 2. System Architecture
 

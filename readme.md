@@ -11,6 +11,7 @@ Use is limited to personal evaluation only.
 **No reuse, distribution, or commercial use is allowed.**  
 See the [LICENSE](./LICENSE) file for full details.
 
+---
 
 ### Table of Contents
 

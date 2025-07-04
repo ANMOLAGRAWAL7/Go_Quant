@@ -3,7 +3,8 @@
 **Version:** 1.0
 **Date:** May 17, 2025
 **Author:** Anmol Agrawal
-📄 License: This project is shared for evaluation only. No reuse or commercial use allowed. See LICENSE for details.
+
+📄 **License:** This project is shared for evaluation only. No reuse or commercial use allowed. See LICENSE for details.
 
 ### Table of Contents
 

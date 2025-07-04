@@ -4,7 +4,13 @@
 **Date:** May 17, 2025
 **Author:** Anmol Agrawal
 
-📄 **License:** This project is shared for evaluation only. No reuse or commercial use allowed. See LICENSE for details.
+## 📄 License
+
+This project is shared under a **custom restrictive license**.  
+Use is limited to personal evaluation only.  
+**No reuse, distribution, or commercial use is allowed.**  
+See the [LICENSE](./LICENSE) file for full details.
+
 
 ### Table of Contents
 
